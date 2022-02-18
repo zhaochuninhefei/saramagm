@@ -1,5 +1,14 @@
-sarama
+saramagm
 ======
+
+# saramagm
+saramagm是基于sarama的`1.20.1`版本，进行了少量扩展的Kafka 客户端Go类库。
+
+- 使用`gitee.com/zhaochuninhefei/gmgo/gmtls`代替Go的`crypto/tls`
+- 重构`sarama`包的目录结构
+
+
+# sarama
 
 [![GoDoc](https://godoc.org/github.com/Shopify/sarama?status.svg)](https://godoc.org/github.com/Shopify/sarama)
 [![Build Status](https://travis-ci.org/Shopify/sarama.svg?branch=master)](https://travis-ci.org/Shopify/sarama)

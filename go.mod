@@ -3,7 +3,7 @@ module gitee.com/zhaochuninhefei/saramagm
 go 1.17
 
 require (
-	gitee.com/zhaochuninhefei/gmgo v0.0.17
+	gitee.com/zhaochuninhefei/gmgo v0.0.18
 	github.com/DataDog/zstd v1.5.0
 	github.com/davecgh/go-spew v1.1.1
 	github.com/eapache/go-resiliency v1.2.0

@@ -27,3 +27,4 @@ coverage.txt
 profile.out
 .vscode/
 .idea/
+/go.sum

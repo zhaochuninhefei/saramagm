@@ -3,7 +3,7 @@ module gitee.com/zhaochuninhefei/saramagm
 go 1.17
 
 require (
-	gitee.com/zhaochuninhefei/gmgo v0.0.26
+	gitee.com/zhaochuninhefei/gmgo v0.0.30
 	github.com/DataDog/zstd v1.5.0
 	github.com/davecgh/go-spew v1.1.1
 	github.com/eapache/go-resiliency v1.2.0
@@ -14,7 +14,7 @@ require (
 )
 
 require (
-	gitee.com/zhaochuninhefei/zcgolog v0.0.19 // indirect
+	gitee.com/zhaochuninhefei/zcgolog v0.0.22 // indirect
 	github.com/frankban/quicktest v1.14.2 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	golang.org/x/crypto v0.0.0-20220214200702-86341886e292 // indirect
